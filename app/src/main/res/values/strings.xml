@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PZ_9</string>
+
+    <!-- Массив имён пользователей -->
+    <string-array name="user_names">
+        <item>Иван Иванов</item>
+        <item>Мария Петрова</item>
+        <item>Сергей Смирнов</item>
+        <item>Анна Кузнецова</item>
+    </string-array>
+
+    <!-- Массив описаний пользователей -->
+    <string-array name="user_descriptions">
+        <item>Описание пользователя Иванов.</item>
+        <item>Описание пользователя Петровой.</item>
+        <item>Описание пользователя Смирнова.</item>
+        <item>Описание пользователя Кузнецовой.</item>
+    </string-array>
+
+    <!-- Массив ссылок на иконки из Material Design -->
+    <array name="user_images">
+        <item>@drawable/avatars1</item>
+        <item>@drawable/avatars3</item>
+        <item>@drawable/avatars2</item>
+        <item>@drawable/avatars4</item>
+    </array>
+
+    <!-- Описание изображения пользователя для доступности -->
+    <string name="user_image_desc">Изображение пользователя</string>
+</resources>
